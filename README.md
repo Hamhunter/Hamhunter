@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamhunter
+- 👋 Hi, I’m Hamdan
 - 👀 I’m interested in webdevelpment
 - 🌱 I’m currently learning fastapi
 - 💞️ I’m looking to collaborate on great products which would be impactfull to mankind
