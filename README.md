@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hamdan
 - 👀 I’m interested in webdevelpment
+- 🌱 Working in angular
 - 🌱 I’m currently learning fastapi
 - 💞️ I’m looking to collaborate on great products which would be impactfull to mankind
 - 📫  reach me here <a href="https://Hamhunter.github.io">hamdan</a>
